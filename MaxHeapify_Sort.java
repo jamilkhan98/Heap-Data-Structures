@@ -1,7 +1,6 @@
 //Jamil Khan
-//CECS 328 Lab 6
+//HeapsDataStructures
 //4-9-19
-//Pouye Sedighian
 
 package heapify;
 
